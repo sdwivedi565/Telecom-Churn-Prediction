@@ -1,7 +1,4 @@
 # Telecom-Churn-Prediction
-Telecom Churn Prediction using Machine Learning models
-
-Telecom_Churn_Model
 Analyse customer-level data of a leading telecom firm, build predictive models to identify customers at high risk of churn and identify the main indicators of churn.
 
 # Business Problem Overview
@@ -33,7 +30,7 @@ The ‘churn’ phase: In this phase, the customer is said to have churned. You 
 
 In this case, since you are working over a four-month window, the first two months are the ‘good’ phase, the third month is the ‘action’ phase, while the fourth month is the ‘churn’ phase.
 
-Data
+# Data
 The dataset contains customer-level information for a span of four consecutive months - June, July, August and September. The months are encoded as 6, 7, 8 and 9, respectively.
 
 Filename: telecom_churn_data.csv
